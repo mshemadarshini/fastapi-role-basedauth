@@ -5,7 +5,7 @@ from fastapi.security import OAuth2PasswordBearer
 from jose import jwt
 import crud
 
-JWT_SECRET = "vipan"
+JWT_SECRET = "hema_darshini"
 ALGORITHM = "HS256"
 from datetime import datetime, timedelta
 
